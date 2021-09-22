@@ -1,0 +1,11 @@
+ul {
+  list-style: none;
+}
+.gallery_list {
+  display: block;
+}
+.gallery_img {
+  width: 320px;
+  height: 180px;
+  margin-right: 10px;
+}
